@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![ogyogy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogyogy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogyogy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ogyogy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogyogy&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogyogy&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ogyogy/ogyogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
