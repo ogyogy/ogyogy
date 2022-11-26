@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ogyogy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogyogy&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogyogy&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogyogy&theme=darkhub&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
